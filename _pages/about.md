@@ -15,5 +15,5 @@ Hi! I'm currently a Computer Science PhD Student at the Hong Kong University of 
 
 My Research Interests
 ======
-My research focus is on Graph Databases, with a particular interest in 
+My research focus is on Graph Databases, with a particular interest in Modelling Communities in Social Networks
 
