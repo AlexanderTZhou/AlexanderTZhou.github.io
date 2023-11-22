@@ -35,3 +35,8 @@ Hong Kong University of Science and Technology
 * COMP4331: Data Mining (2020)
 University of Queensland
 * INFS1200/7900: Introduction to Information Systems (2017 - 2019)
+
+Program Committee
+=====
+2024: DASFAA
+2023: DASFAA, ADMA
