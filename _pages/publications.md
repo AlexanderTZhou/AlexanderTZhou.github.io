@@ -6,9 +6,8 @@ author_profile: true
 ---
 
 {% include base_path %}
-[My Google Scholar Profile](https://scholar.google.com/citations?user=zQSmMZkAAAAJ&hl=en&oi=ao)
-
-[My DBLP Profile](https://dblp.org/pid/219/5776.html)
+[Google Scholar](https://scholar.google.com/citations?user=zQSmMZkAAAAJ&hl=en&oi=ao)
+[DBLP](https://dblp.org/pid/219/5776.html)
 
 K Chung, **A Zhou**, Y Wang, L Chen. Maximum Balanced (k, epsilon)-Bitruss Detection in Signed Bipartite Graph. *PVLDB* (Accepted but not yet Published)
 
