@@ -13,11 +13,11 @@ redirect_from:
 
 Education
 ======
+* Ph.D in Computer Science, Hong Kong University of Science and Technology, 2024 (expected)
+    * Supervisor: Prof. Lei Chen
 * Bachelor in Engineering (Honours) , University of Queensland (2019)
     * Thesis Supervisor: Dr. Hongzhi Yin
 * Bachelor in Science, University of Queensland (2019)
-* Ph.D in Computer Science, Hong Kong University of Science and Technology, 2024 (expected)
-    * Supervisor: Prof. Lei Chen
 
 Additional Academic Experience
 ======
