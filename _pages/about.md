@@ -15,15 +15,15 @@ Hi! I'm Alex! I'm from Brisbane, Australia but am currently a Computer Science P
 
 My Research Interests
 ======
-My research focus is on Graph Databases, with a focus on modelling communities in social networks. In particular, I am interested in capturing groups of people who fulfil interesting behaviours whether they be positive (e.g. Diverse) or negative (e.g. Echo Chambers). By identifying positive communities we are able to support the future growth and expansion of that group whilst by identifying negative communities necessary precautions can be taken. Furthermore, I am interested in complex graph types (Uncertain, Temporal, Signed, etc.) as the semantic meanings they hold can provide rich queries and structures unavailable to normal graphs.
+My research focus is on graph databases, with a focus on social networks. I have worked previously on capturing communities of people who fulfil interesting behaviours whether they be positive (e.g. Diverse) or negative (e.g. Echo Chambers). By identifying positive communities we are able to support the future growth and expansion of that group whilst by identifying negative communities necessary precautions can be taken. Furthermore, I am interested in complex graph types (Uncertain, Temporal, Signed, etc.) as the semantic meanings they hold can provide rich queries and structures unavailable to normal graphs.
 
-I also have an interest regardin
+I also have an interest in database techniques which aid machine learning efficiency, with a particular interest in graph pre-processing for GNNS.
 
 Contact Me
 ======
-Institution Email: atzhou@cse.ust.hk
+Institution Email: [atzhou@cse.ust.hk](mailto:atzhou@cse.ust.hk)
 
-Personal Email: alexandertiannanzhou@gmail.com
+Personal Email: [alexandertiannanzhou@gmail.com](mailto:alexandertiannanzhou@gmail.com)
 
 ### Defunct Emails
 alexander.zhou@uqconnect.edu.au
