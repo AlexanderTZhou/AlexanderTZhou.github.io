@@ -9,9 +9,9 @@ author_profile: true
 [Google Scholar](https://scholar.google.com/citations?user=zQSmMZkAAAAJ&hl=en&oi=ao)
 [DBLP](https://dblp.org/pid/219/5776.html)
 
-**A Zhou**, Y Wang, L Chen, T Özsu. Positive Communities on Signed Graphs That Are Not Echo Chambers: A Clique-Based Approach. *ICDE* (Accepted but not yet published)
+**A Zhou**, Y Wang, L Chen, T Özsu. Positive Communities on Signed Graphs That Are Not Echo Chambers: A Clique-Based Approach. *ICDE*. 2024.
 
-K Chung, **A Zhou**, Y Wang, L Chen. Maximum Balanced (k, epsilon)-Bitruss Detection in Signed Bipartite Graph. *PVLDB* (Accepted but not yet published)
+K Chung, **A Zhou**, Y Wang, L Chen. Maximum Balanced (k, epsilon)-Bitruss Detection in Signed Bipartite Graph. *PVLDB*. 2024.
 
 **A Zhou**, Y Wang, L Chen. Butterfly Counting and Bitruss Decomposition on Uncertain Bipartite Graphs. *VLDBJ*. 2023.
 
