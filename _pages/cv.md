@@ -31,6 +31,7 @@ Additional Academic Experience
 Teaching Assistant Experience
 =====
 Hong Kong University of Science and Technology
+* COMP1944: Artificial Intelligence Ethics (2024)
 * COMP1029V: Excel VBA Programming Bridging Course (2021, 2023)
 * COMP4331: Data Mining (2020)
 
@@ -42,3 +43,11 @@ Program Committee
 2024: DASFAA
 
 2023: DASFAA, ADMA
+
+Jornal Reviewer
+=====
+TODS
+
+PhD Workshop Invidted Talks
+=====
+2022: ADC
