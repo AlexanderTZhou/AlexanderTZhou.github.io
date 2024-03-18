@@ -13,11 +13,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Hong Kong University of Science and Technology, 2024 (expected)
+* PhD in Computer Science, Hong Kong University of Science and Technology, 2024 (expected)
     * Supervisor: Prof. Lei Chen
-* Bachelor in Engineering (Honours) , University of Queensland (2019)
+* Bachelor of Engineering (Honours) , University of Queensland (2019)
     * Thesis Supervisor: Dr. Hongzhi Yin
-* Bachelor in Science, University of Queensland (2019)
+* Bachelor of Science, University of Queensland (2019)
 
 Additional Academic Experience
 ======
@@ -44,7 +44,7 @@ Program Committee
 
 2023: DASFAA, ADMA
 
-Jornal Reviewer
+Journal Reviewer
 =====
 TODS
 
