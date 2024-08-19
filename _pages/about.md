@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-Hi! I'm Alex! I'm from Brisbane, Australia and am currently completing my PhD in Computer Science at the Hong Kong University of Science and Technology under the supervision of Prof. Lei Chen. Before that, I recieved my Bachelor of Engineering (Honours) and Bachelor of Science from the University of Queensland.
+Hi! I'm Alex! I'm from Brisbane, Australia and am currently a Research Assistant Professor at the Hong Kong Polytechnic University. I completed my PhD in Computer Science at the Hong Kong University of Science and Technology under the supervision of Prof. Lei Chen. Before that, I recieved my Bachelor of Engineering (Honours) and Bachelor of Science from the University of Queensland specialising in Software Engineering and Statistics respectively.
 
 My Research Interests
 ======
@@ -20,9 +20,10 @@ I also have an interest in database techniques which aid machine learning effici
 
 Contact Me
 ======
-Institution Email: [atzhou@cse.ust.hk](mailto:atzhou@cse.ust.hk)
+Institution Email: [alexander.zhou@polyu.edu.hk](mailto:alexander.zhou@polyu.edu.hk)
 
 Personal Email: [alexandertiannanzhou@gmail.com](mailto:alexandertiannanzhou@gmail.com)
 
-### Defunct Emails
+### Previous (Potentially Defunct) Emails
 alexander.zhou@uqconnect.edu.au
+atzhou@cse.ust.hk

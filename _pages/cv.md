@@ -13,11 +13,11 @@ redirect_from:
 
 Education
 ======
-* PhD in Computer Science, Hong Kong University of Science and Technology, (July 2024 expected)
+* PhD in Computer Science, Hong Kong University of Science and Technology, (2019-2024)
     * Supervisor: Prof. Lei Chen
-* Bachelor of Engineering (Honours) , University of Queensland (2019)
+* Bachelor of Engineering (Honours) , University of Queensland (2014-2019)
     * Thesis Supervisor: Prof. Hongzhi Yin
-* Bachelor of Science, University of Queensland (2019)
+* Bachelor of Science, University of Queensland (2014-2019)
 
 Additional Academic Experience
 ======
@@ -28,6 +28,11 @@ Additional Academic Experience
 * Summer Researcher, University of New South Wales (Dec 2017 - Feb 2018)
 	* Host Supervisor: Prof. Wenjei Zhang and Prof. Ying Zhang
 	
+Teaching Experience
+=====
+Hong Kong Polytechnic University
+* COMP2411: Database Systems (2024)
+
 Teaching Assistant Experience
 =====
 Hong Kong University of Science and Technology
@@ -38,13 +43,12 @@ Hong Kong University of Science and Technology
 University of Queensland
 * INFS1200/7900: Introduction to Information Systems (2017 - 2019)
 
-Program Committee
+Professional Services
 =====
-DASFAA ('23, '24), ADMA ('23, '24), APWeb-WAIM ('24)
-
-Journal Reviewer
-=====
-TODS
+Publication and Proceedings Chair: ICDE ('25)
+Volunteers Chair: WWW ('25)
+Program Committee: ICDE ('25), DASFAA ('23, '24), ADMA ('23, '24), APWeb-WAIM ('24)
+Journal Reviewer: TODS
 
 PhD Workshop Invidted Talks
 =====
