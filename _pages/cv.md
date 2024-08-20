@@ -14,19 +14,19 @@ redirect_from:
 Education
 ======
 * PhD in Computer Science, Hong Kong University of Science and Technology, (2019-2024)
-    * Supervisor: Prof. Lei Chen
+    * Supervisor: [Prof. Lei Chen](https://cse.hkust.edu.hk/~leichen/)
 * Bachelor of Engineering (Honours) , University of Queensland (2014-2019)
-    * Thesis Supervisor: Prof. Hongzhi Yin
+    * Thesis Supervisor: [Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/)
 * Bachelor of Science, University of Queensland (2014-2019)
 
 Additional Academic Experience
 ======
 * Overseas Visiting Researcher, University of Waterloo (Nov 2022 - Mar 2023)
-    * Host Supervisor: Prof. Tamer Özsu
+    * Host Supervisor: [Prof. Tamer Özsu](https://cs.uwaterloo.ca/~tozsu/)
 * Research Assistant, Chinese University of Hong Kong (Nov 2018 - Feb 2019)
-    * Host Supervisor: Prof. Jeffrey Xu Yu
+    * Host Supervisor: [Prof. Jeffrey Xu Yu](https://www.se.cuhk.edu.hk/people/academic-staff/prof-yu-xu-jeffrey/)
 * Summer Researcher, University of New South Wales (Dec 2017 - Feb 2018)
-	* Host Supervisor: Prof. Wenjei Zhang and Prof. Ying Zhang
+	* Host Supervisor: [Prof. Wenjei Zhang](https://research.unsw.edu.au/people/professor-wenjie-zhang) and [Prof. Ying Zhang](https://profiles.uts.edu.au/ying.zhang)
 	
 Teaching Experience
 =====
@@ -46,10 +46,13 @@ University of Queensland
 Professional Services
 =====
 Publication and Proceedings Chair: ICDE ('25)
+
 Volunteers Chair: WWW ('25)
+
 Program Committee: ICDE ('25), DASFAA ('23, '24), ADMA ('23, '24), APWeb-WAIM ('24)
+
 Journal Reviewer: TODS
 
-PhD Workshop Invidted Talks
+PhD Workshop Invited Talks
 =====
 ADC ('22)
