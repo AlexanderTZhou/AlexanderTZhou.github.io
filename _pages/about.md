@@ -24,6 +24,8 @@ Institution Email: [alexander.zhou@polyu.edu.hk](mailto:alexander.zhou@polyu.edu
 
 Personal Email: [alexandertiannanzhou@gmail.com](mailto:alexandertiannanzhou@gmail.com)
 
+Office: PQ811 at PolyU
+
 ### Previous (Potentially Defunct) Emails
 alexander.zhou@uqconnect.edu.au
 
