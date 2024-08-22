@@ -11,6 +11,11 @@ redirect_from:
 
 [My CV for Download](http://alexandertzhou.github.io/files/alexanderzhoucv.pdf)
 
+Employment
+======
+* Hong Kong Polytechnic University (2024 - Present)
+    * Research Assistant Professor
+    
 Education
 ======
 * PhD in Computer Science, Hong Kong University of Science and Technology, (2019-2024)
