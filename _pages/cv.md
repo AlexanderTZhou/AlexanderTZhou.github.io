@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[My CV for Download](http://alexandertzhou.github.io/files/alexanderzhoucv.pdf)
-
 Employment
 ======
 * Hong Kong Polytechnic University (2024 - Present)
