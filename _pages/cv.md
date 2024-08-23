@@ -16,7 +16,7 @@ Employment
     
 Education
 ======
-* PhD in Computer Science, Hong Kong University of Science and Technology, (2019-2024)
+* PhD in Computer Science, Hong Kong University of Science and Technology (2019-2024)
     * Supervisor: [Prof. Lei Chen](https://cse.hkust.edu.hk/~leichen/)
 * Bachelor of Engineering (Honours) , University of Queensland (2014-2019)
     * Thesis Supervisor: [Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/)
@@ -48,7 +48,7 @@ University of Queensland
 
 Professional Services
 =====
-Publication and Proceedings Chair: ICDE ('25)
+Publication and Proceedings Chair: ICDE ('25), LGDSA ('25)
 
 Volunteers Chair: WWW ('25)
 

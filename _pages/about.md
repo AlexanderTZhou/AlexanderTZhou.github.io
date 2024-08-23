@@ -10,11 +10,12 @@ redirect_from:
 
 {% include base_path %}
 
-Hi! I'm Alex! I'm from Brisbane, Australia and am currently a Research Assistant Professor at the Hong Kong Polytechnic University. I completed my PhD in Computer Science at the Hong Kong University of Science and Technology under the supervision of Prof. Lei Chen. Before that, I recieved my Bachelor of Engineering (Honours) and Bachelor of Science from the University of Queensland specialising in Software Engineering and Statistics respectively.
+Hi, I'm from Brisbane, Australia and am currently a Research Assistant Professor at the Hong Kong Polytechnic University. I completed my PhD in Computer Science at the Hong Kong University of Science and Technology under the supervision of Prof. Lei Chen. Before that, I recieved my Bachelor of Engineering (Honours) and Bachelor of Science from the University of Queensland specialising in Software Engineering and Statistics respectively.
 
 I am currently looking for:
 * Research Assistants with a strong coding ability (C++ and Python).
 * Postdoctorate Fellows with a PhD in Computer Science and strong background in graph-based research, either traditional algorithms or machine learning (such as GNNs or Link Prediction).
+* Prospective PhD Students with a Computer Science or Mathematics degree and strong coding ability. We may discuss co-supervision with other faculty members at PolyU.
 
 If you are interested, please [email me](mailto:alexander.zhou@polyu.edu.hk) with your English CV.
 
