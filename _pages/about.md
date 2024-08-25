@@ -15,9 +15,9 @@ Hi, I'm from Brisbane, Australia and am currently a Research Assistant Professor
 I am currently looking for:
 * Research Assistants with a strong coding ability (C++ and Python).
 * Postdoctorate Fellows with a PhD in Computer Science and strong background in graph-based research, either traditional algorithms or machine learning (such as GNNs or Link Prediction).
-* Prospective PhD Students with a Computer Science or Mathematics degree and strong coding ability. We may discuss co-supervision with other faculty members at PolyU.
+* Prospective PhD Students with a Computer Science or Mathematics degree (preferably with a background in graphs), strong coding and excellent communication and English writing ability. We may discuss co-supervision with other faculty members at PolyU.
 
-If you are interested, please [email me](mailto:alexander.zhou@polyu.edu.hk) with your English CV.
+If you are interested, please [email me](mailto:alexander.zhou@polyu.edu.hk) with your English CV. For Postdocs and PhD students, please also highlight previous research experience and potential area you would like to work research.
 
 My Research Interests
 ======
