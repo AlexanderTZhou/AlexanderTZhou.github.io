@@ -9,7 +9,7 @@ author_profile: true
 [Google Scholar](https://scholar.google.com/citations?user=zQSmMZkAAAAJ&hl=en&oi=ao)
 [DBLP](https://dblp.org/pid/219/5776.html)
 
-A Tian, **A Zhou**, Y Wang, X Jian, L Chen. Efficient Index for Temporal Core Queries over Bipartite Graphs. *To appear in PVDLB*. 2024
+A Tian, **A Zhou**, Y Wang, X Jian, L Chen. Efficient Index for Temporal Core Queries over Bipartite Graphs. *PVDLB*. 2024
 
 **A Zhou**, Y Wang, L Chen, T Özsu. Positive Communities on Signed Graphs That Are Not Echo Chambers: A Clique-Based Approach. *ICDE*. 2024.
 
