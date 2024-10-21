@@ -12,7 +12,7 @@ redirect_from:
 Employment
 ======
 * Hong Kong Polytechnic University (2024 - Present)
-    * Research Assistant Professor
+    * Research Assistant Professor in the Department of Computing
     
 Education
 ======
@@ -34,7 +34,7 @@ Additional Academic Experience
 Teaching Experience
 =====
 Hong Kong Polytechnic University
-* COMP2411: Database Systems (2024)
+* COMP2411: Database Systems (Fall 2024)
 
 Teaching Assistant Experience
 =====
@@ -52,7 +52,7 @@ Publication and Proceedings Chair: ICDE ('25), LGDSA ('25)
 
 Volunteers Chair: WWW ('25)
 
-Program Committee: ICDE ('25), DASFAA ('23, '24), ADMA ('23, '24), APWeb-WAIM ('24)
+Program Committee: ICDE ('25), DASFAA ('23, '24), ADMA ('23, '24), APWeb-WAIM ('24), ADC ('24)
 
 Journal Reviewer: TODS
 
