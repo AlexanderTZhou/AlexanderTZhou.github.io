@@ -52,9 +52,15 @@ Publication and Proceedings Chair: ICDE ('25), LGDSA ('25)
 
 Volunteers Chair: WWW ('25)
 
-Program Committee: ICDE ('25), DASFAA ('23, '24), ADMA ('23, '24), APWeb-WAIM ('24), ADC ('24)
+Strategic Program Chair: ADC ('25)
+
+Program Committee: ICDE ('25, '26) (*ICDE'25 Best PC Award*), DASFAA ('23 - '25), ADMA ('23 - '25), APWeb-WAIM ('24), ADC ('24)
 
 Journal Reviewer: TODS
+
+Invited Tutorial Speaker
+=====
+ADC ('24): Graph-Based Indexes for Approximate Nearest Neighbour Search
 
 PhD Workshop Invited Talks
 =====
