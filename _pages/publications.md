@@ -9,9 +9,11 @@ author_profile: true
 [Google Scholar](https://scholar.google.com/citations?user=zQSmMZkAAAAJ&hl=en&oi=ao)
 [DBLP](https://dblp.org/pid/219/5776.html)
 
-A Tian, **A Zhou**, Y Wang, X Jian, L Chen. Efficient Index for Temporal Core Queries over Bipartite Graphs. *PVDLB*. 2024
+A Tian, **A Zhou**, Y Wang, X Jian, L Chen, Y Zhou, C Zhang. Distributed Truss Decomposition over Large Directed Graphs. *VLDBJ*. 2025.
 
 **A Zhou**, Y Wang, L Chen, T Özsu. Positive Communities on Signed Graphs That Are Not Echo Chambers: A Clique-Based Approach. *ICDE*. 2024.
+
+A Tian, **A Zhou**, Y Wang, X Jian, L Chen. Efficient Index for Temporal Core Queries over Bipartite Graphs. *PVDLB*. 2024
 
 K Chung, **A Zhou**, Y Wang, L Chen. Maximum Balanced (k, epsilon)-Bitruss Detection in Signed Bipartite Graph. *PVLDB*. 2024.
 
@@ -29,7 +31,7 @@ K Wang, W Zhang, X Lin, L Qin, **A Zhou**. Efficient Personalized Maximum Bicliq
 
 X Sun, H Yin, B Liu, Q Meng, J Cao, **A Zhou**, H Chen. Structure Learning via Meta-hyperedge for Dynamic Rumor Detection. *TKDE*. 2022.
 
-**A Zhou**, Y Wang, L Chen. Butterfly Counting in Uncertain Bipartite Networks. *PVDLB*. 2021.
+**A Zhou**, Y Wang, L Chen. Butterfly Counting in Uncertain Bipartite Networks. *PVLDB*. 2021.
 
 Q Wang, H Yin, T Chen, J Yu, **A Zhou**, X Zhang. Fast-adapting and Privacy-preserving Federated Recommender System. *VLDBJ*. 2021.
 

@@ -25,13 +25,6 @@ My research focus is on graph databases and algorithms, with a specific focus ex
 
 Contact Me
 ======
-Institution Email: [alexander.zhou@polyu.edu.hk](mailto:alexander.zhou@polyu.edu.hk)
-
-Personal Email: [alexandertiannanzhou@gmail.com](mailto:alexandertiannanzhou@gmail.com)
+Institution Email: alexander.zhou (at) polyu.edu.hk
 
 Office: PQ811 at PolyU
-
-### Previous (Potentially Defunct) Emails
-alexander.zhou@uqconnect.edu.au
-
-atzhou@cse.ust.hk
