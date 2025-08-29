@@ -13,7 +13,7 @@ A Tian, **A Zhou**, Y Wang, X Jian, L Chen, Y Zhou, C Zhang. Distributed Truss D
 
 **A Zhou**, Y Wang, L Chen, T Özsu. Positive Communities on Signed Graphs That Are Not Echo Chambers: A Clique-Based Approach. *ICDE*. 2024.
 
-A Tian, **A Zhou**, Y Wang, X Jian, L Chen. Efficient Index for Temporal Core Queries over Bipartite Graphs. *PVDLB*. 2024
+A Tian, **A Zhou**, Y Wang, X Jian, L Chen. Efficient Index for Temporal Core Queries over Bipartite Graphs. *PVLDB*. 2024
 
 K Chung, **A Zhou**, Y Wang, L Chen. Maximum Balanced (k, epsilon)-Bitruss Detection in Signed Bipartite Graph. *PVLDB*. 2024.
 
