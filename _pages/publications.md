@@ -11,6 +11,8 @@ author_profile: true
 
 A Tian, **A Zhou**, Y Wang, X Jian, L Chen, Y Zhou, C Zhang. Distributed Truss Decomposition over Large Directed Graphs. *VLDBJ*. 2025.
 
+H. Li, **A. Zhou**, F. Jin, Q. Li, Z. Zhao, H. Xin, Q. Yan, T. Mao, X. Lin, Z. Li, L. Chen. Dynamic Service Knowledge Base Construction at WeChat. *ADMA*. 2025.
+
 **A Zhou**, Y Wang, L Chen, T Özsu. Positive Communities on Signed Graphs That Are Not Echo Chambers: A Clique-Based Approach. *ICDE*. 2024.
 
 A Tian, **A Zhou**, Y Wang, X Jian, L Chen. Efficient Index for Temporal Core Queries over Bipartite Graphs. *PVLDB*. 2024
