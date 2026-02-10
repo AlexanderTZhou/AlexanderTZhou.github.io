@@ -9,10 +9,10 @@ author_profile: true
 [Google Scholar](https://scholar.google.com/citations?user=zQSmMZkAAAAJ&hl=en&oi=ao)
 [DBLP](https://dblp.org/pid/219/5776.html)
 
-A Tian, **A Zhou**, Y Wang, X Jian, L Chen, Y Zhou, C Zhang. Distributed Truss Decomposition over Large Directed Graphs. *VLDBJ*. 2025.
-
 Y. Cao, W. Shi, W-J. Xu, Y. Shen, Y. Cui, H. Guo, S. Di, Z. Liu, J. Li, **A. Zhou**, J. Zhu, J. Xu. TIV: Thought Injection via Vectors for Efficient Reasoning in Large Reasoning
-Models. *AAAI*, 2025.
+Models. *AAAI*, 2026.
+
+A Tian, **A Zhou**, Y Wang, X Jian, L Chen, Y Zhou, C Zhang. Distributed Truss Decomposition over Large Directed Graphs. *VLDBJ*. 2025.
 
 H. Li, **A. Zhou**, F. Jin, Q. Li, Z. Zhao, H. Xin, Q. Yan, T. Mao, X. Lin, Z. Li, L. Chen. Dynamic Service Knowledge Base Construction at WeChat. *ADMA*. 2025.
 
