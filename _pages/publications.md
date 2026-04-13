@@ -9,6 +9,8 @@ author_profile: true
 [Google Scholar](https://scholar.google.com/citations?user=zQSmMZkAAAAJ&hl=en&oi=ao)
 [DBLP](https://dblp.org/pid/219/5776.html)
 
+L. Qiu, Y. Xu, H. Li. C. Zhang, **A. Zhou**, P. Cheng, L. Chen, Q. Li. Towards A Generalizable and Expressive Graph Neural Network for Graph-Level Tasks with Theoretical Guarantees. *VLDBJ*, 2026
+
 Y. Cao, W. Shi, W-J. Xu, Y. Shen, Y. Cui, H. Guo, S. Di, Z. Liu, J. Li, **A. Zhou**, J. Zhu, J. Xu. TIV: Thought Injection via Vectors for Efficient Reasoning in Large Reasoning
 Models. *AAAI*, 2026.
 
@@ -26,7 +28,7 @@ K Chung, **A Zhou**, Y Wang, L Chen. Maximum Balanced (k, epsilon)-Bitruss Detec
 
 A Tian, **A Zhou**, Y Wang, L Chen. Maximal D-Truss Search in Dynamic Directed Graphs. *PVLDB*. 2023.
 
-M Imran, H Yin, T Chen, Q Nguyen, **A Zhou**, K Zheng. ReFRS: Resource-efficient Federated Recommender System for Dynamic and Diversified User Preferences. *ACM Transactions on Information Systems*. 2023.
+M Imran, H Yin, T Chen, Q Nguyen, **A Zhou**, K Zheng. ReFRS: Resource-efficient Federated Recommender System for Dynamic and Diversified User Preferences. *TOIS*. 2023.
 
 X Sun, H Yin, B Liu, Q Meng, J Cao, **A Zhou**, H Chen. Structure Learning via Meta-Hyperedge for Dynamic Rumor Detection. *TKDE*. 2023.
 
