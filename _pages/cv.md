@@ -34,7 +34,8 @@ Additional Academic Experience
 Teaching Experience
 =====
 Hong Kong Polytechnic University
-* COMP2411: Database Systems (Fall 2024)
+* COMP3235: Software Project Management (S2 25/26)
+* COMP2411: Database Systems (S1 24/25)
 
 Teaching Assistant Experience
 =====
