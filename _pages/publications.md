@@ -9,7 +9,9 @@ author_profile: true
 [Google Scholar](https://scholar.google.com/citations?user=zQSmMZkAAAAJ&hl=en&oi=ao)
 [DBLP](https://dblp.org/pid/219/5776.html)
 
-L. Qiu, Y. Xu, H. Li. C. Zhang, **A. Zhou**, P. Cheng, L. Chen, Q. Li. Towards A Generalizable and Expressive Graph Neural Network for Graph-Level Tasks with Theoretical Guarantees. *VLDBJ*, 2026
+H. Yang, J. Zhang, Z. He, **A. Zhou**, Y. R. Fung. MARS-SQL: A Multi-Agent Reinforcement Learning Framework For Text-To-SQL. *ICML*, 2026.
+
+L. Qiu, Y. Xu, H. Li. C. Zhang, **A. Zhou**, P. Cheng, L. Chen, Q. Li. Towards A Generalizable and Expressive Graph Neural Network for Graph-Level Tasks with Theoretical Guarantees. *VLDBJ*, 2026.
 
 Y. Cao, W. Shi, W-J. Xu, Y. Shen, Y. Cui, H. Guo, S. Di, Z. Liu, J. Li, **A. Zhou**, J. Zhu, J. Xu. TIV: Thought Injection via Vectors for Efficient Reasoning in Large Reasoning
 Models. *AAAI*, 2026.
@@ -20,7 +22,7 @@ H. Li, **A. Zhou**, F. Jin, Q. Li, Z. Zhao, H. Xin, Q. Yan, T. Mao, X. Lin, Z. L
 
 **A Zhou**, Y Wang, L Chen, T Özsu. Positive Communities on Signed Graphs That Are Not Echo Chambers: A Clique-Based Approach. *ICDE*. 2024.
 
-A Tian, **A Zhou**, Y Wang, X Jian, L Chen. Efficient Index for Temporal Core Queries over Bipartite Graphs. *PVLDB*. 2024
+A Tian, **A Zhou**, Y Wang, X Jian, L Chen. Efficient Index for Temporal Core Queries over Bipartite Graphs. *PVLDB*. 2024.
 
 K Chung, **A Zhou**, Y Wang, L Chen. Maximum Balanced (k, epsilon)-Bitruss Detection in Signed Bipartite Graph. *PVLDB*. 2024.
 
