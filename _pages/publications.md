@@ -9,9 +9,11 @@ author_profile: true
 [Google Scholar](https://scholar.google.com/citations?user=zQSmMZkAAAAJ&hl=en&oi=ao)
 [DBLP](https://dblp.org/pid/219/5776.html)
 
-H. Yang, J. Zhang, Z. He, **A. Zhou**, Y. R. Fung. MARS-SQL: A Multi-Agent Reinforcement Learning Framework For Text-To-SQL. *ICML*, 2026.
+Q. Zhang, X. Gao, **A. Zhou**, R. Cheng, S-Y. Yiu, H. Yin. Efficient Prompt Learning for Traffic Forecasting. *VLDBJ*, 2026. *Accepted, to appear in*
 
-L. Qiu, Y. Xu, H. Li. C. Zhang, **A. Zhou**, P. Cheng, L. Chen, Q. Li. Towards A Generalizable and Expressive Graph Neural Network for Graph-Level Tasks with Theoretical Guarantees. *VLDBJ*, 2026.
+H. Yang, J. Zhang, Z. He, **A. Zhou**, Y. R. Fung. MARS-SQL: A Multi-Agent Reinforcement Learning Framework For Text-To-SQL. *ICML*, 2026. *Accepted, to appear in*
+
+L. Qiu, Y. Xu, H. Li. C. Zhang, **A. Zhou**, P. Cheng, L. Chen, Q. Li. Towards A Generalizable and Expressive Graph Neural Network for Graph-Level Tasks with Theoretical Guarantees. *VLDBJ*, 2026. *Accepted, to appear in*
 
 Y. Cao, W. Shi, W-J. Xu, Y. Shen, Y. Cui, H. Guo, S. Di, Z. Liu, J. Li, **A. Zhou**, J. Zhu, J. Xu. TIV: Thought Injection via Vectors for Efficient Reasoning in Large Reasoning
 Models. *AAAI*, 2026.
