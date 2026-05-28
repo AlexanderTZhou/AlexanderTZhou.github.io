@@ -13,6 +13,8 @@ Q. Zhang, X. Gao, **A. Zhou**, R. Cheng, S-Y. Yiu, H. Yin. Efficient Prompt Lear
 
 H. Yang, J. Zhang, Z. He, **A. Zhou**, Y. R. Fung. MARS-SQL: A Multi-Agent Reinforcement Learning Framework For Text-To-SQL. *ICML*, 2026. *Accepted, to appear in*
 
+Y Zheng, W Jiang, T Chen, **A Zhou**, C Zhan, Q Nguyen, H Yin. Epidemiology-informed Graph Neural Network for Heterogeneity-aware Epidemic Forecasting. *ECML PKDD*, 2026. *Accepted, to appear in*
+
 L. Qiu, Y. Xu, H. Li. C. Zhang, **A. Zhou**, P. Cheng, L. Chen, Q. Li. Towards A Generalizable and Expressive Graph Neural Network for Graph-Level Tasks with Theoretical Guarantees. *VLDBJ*, 2026. *Accepted, to appear in*
 
 Y. Cao, W. Shi, W-J. Xu, Y. Shen, Y. Cui, H. Guo, S. Di, Z. Liu, J. Li, **A. Zhou**, J. Zhu, J. Xu. TIV: Thought Injection via Vectors for Efficient Reasoning in Large Reasoning
