@@ -9,20 +9,20 @@ author_profile: true
 [Google Scholar](https://scholar.google.com/citations?user=zQSmMZkAAAAJ&hl=en&oi=ao)
 [DBLP](https://dblp.org/pid/219/5776.html)
 
-Q. Zhang, X. Gao, **A. Zhou**, R. Cheng, S-Y. Yiu, H. Yin. Efficient Prompt Learning for Traffic Forecasting. *VLDBJ*, 2026. *Accepted, to appear in*
+Q Zhang, X Gao, **A Zhou**, R Cheng, S-Y Yiu, H Yin. Efficient Prompt Learning for Traffic Forecasting. *VLDBJ*, 2026. *Accepted, to appear in*
 
-H. Yang, J. Zhang, Z. He, **A. Zhou**, Y. R. Fung. MARS-SQL: A Multi-Agent Reinforcement Learning Framework For Text-To-SQL. *ICML*, 2026. *Accepted, to appear in*
+H Yang, J Zhang, Z He, **A Zhou**, Y R Fung. MARS-SQL: A Multi-Agent Reinforcement Learning Framework For Text-To-SQL. *ICML*, 2026. *Accepted, to appear in*
 
 Y Zheng, W Jiang, T Chen, **A Zhou**, C Zhan, Q Nguyen, H Yin. Epidemiology-informed Graph Neural Network for Heterogeneity-aware Epidemic Forecasting. *ECML PKDD*, 2026. *Accepted, to appear in*
 
-L. Qiu, Y. Xu, H. Li. C. Zhang, **A. Zhou**, P. Cheng, L. Chen, Q. Li. Towards A Generalizable and Expressive Graph Neural Network for Graph-Level Tasks with Theoretical Guarantees. *VLDBJ*, 2026. *Accepted, to appear in*
+L Qiu, Y Xu, H Li, C Zhang, **A Zhou**, P Cheng, L Chen, Q Li. Towards A Generalizable and Expressive Graph Neural Network for Graph-Level Tasks with Theoretical Guarantees. *VLDBJ*, 2026. *Accepted, to appear in*
 
-Y. Cao, W. Shi, W-J. Xu, Y. Shen, Y. Cui, H. Guo, S. Di, Z. Liu, J. Li, **A. Zhou**, J. Zhu, J. Xu. TIV: Thought Injection via Vectors for Efficient Reasoning in Large Reasoning
+Y Cao, W Shi, W-J Xu, Y Shen, Y Cui, H Guo, S Di, Z Liu, J Li, **A Zhou**, J Zhu, J Xu. TIV: Thought Injection via Vectors for Efficient Reasoning in Large Reasoning
 Models. *AAAI*, 2026.
 
 A Tian, **A Zhou**, Y Wang, X Jian, L Chen, Y Zhou, C Zhang. Distributed Truss Decomposition over Large Directed Graphs. *VLDBJ*. 2025.
 
-H. Li, **A. Zhou**, F. Jin, Q. Li, Z. Zhao, H. Xin, Q. Yan, T. Mao, X. Lin, Z. Li, L. Chen. Dynamic Service Knowledge Base Construction at WeChat. *ADMA*. 2025.
+H Li, **A Zhou**, F Jin, Q Li, Z Zhao, H Xin, Q Yan, T Mao, X Lin, Z Li, L Chen. Dynamic Service Knowledge Base Construction at WeChat. *ADMA*. 2025.
 
 **A Zhou**, Y Wang, L Chen, T Özsu. Positive Communities on Signed Graphs That Are Not Echo Chambers: A Clique-Based Approach. *ICDE*. 2024.
 
