@@ -13,9 +13,9 @@ Q Zhang, X Gao, **A Zhou**, R Cheng, S-Y Yiu, H Yin. Efficient Prompt Learning f
 
 H Yang, J Zhang, Z He, **A Zhou**, Y R Fung. MARS-SQL: A Multi-Agent Reinforcement Learning Framework For Text-To-SQL. *ICML*, 2026. *Accepted, to appear in*
 
-Q Luo, Z Yang, W Zhang, **A Zhou**, D Yu, X Cheng, X Lin, S Guo. Hypergraph decomposition with intersection bounds. *VLDBJ*, 2026.
-
 Y Zheng, W Jiang, T Chen, **A Zhou**, C Zhan, Q Nguyen, H Yin. Epidemiology-informed Graph Neural Network for Heterogeneity-aware Epidemic Forecasting. *ECML PKDD*, 2026. *Accepted, to appear in*
+
+Q Luo, Z Yang, W Zhang, **A Zhou**, D Yu, X Cheng, X Lin, S Guo. Hypergraph decomposition with intersection bounds. *VLDBJ*, 2026.
 
 L Qiu, Y Xu, H Li, C Zhang, **A Zhou**, P Cheng, L Chen, Q Li. Towards A Generalizable and Expressive Graph Neural Network for Graph-Level Tasks with Theoretical Guarantees. *VLDBJ*, 2026.
 
