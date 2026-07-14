@@ -29,7 +29,7 @@ Additional Academic Experience
 * Research Assistant, Chinese University of Hong Kong (Nov 2018 - Feb 2019)
     * Host Supervisor: [Prof. Jeffrey Xu Yu](https://www.se.cuhk.edu.hk/people/academic-staff/prof-yu-xu-jeffrey/)
 * Summer Researcher, University of New South Wales (Dec 2017 - Feb 2018)
-	* Host Supervisor: [Prof. Wenjei Zhang](https://research.unsw.edu.au/people/professor-wenjie-zhang) and [Prof. Ying Zhang](https://profiles.uts.edu.au/ying.zhang)
+	* Host Supervisor: [Prof. Wenjie Zhang](https://research.unsw.edu.au/people/professor-wenjie-zhang) and [Prof. Ying Zhang](https://profiles.uts.edu.au/ying.zhang)
 	
 Teaching Experience
 =====
@@ -57,9 +57,9 @@ Workshop Chair: ICDM ('26)
 
 Strategic Program Chair: ADC ('25)
 
-Program Committee: ICDE ('25, '26) (**ICDE'25 Best PC Award**), VLDB ('26), DASFAA ('23 - '26), ICPADS ('25), ADMA ('23 - '25), LSGDA ('25), APWeb-WAIM ('24), ADC ('24, '25)
+Program Committee: ICDE ('25, '26, '27) (**ICDE'25 Best PC Award**), VLDB ('26, '27), DASFAA ('23 - '26), ICPADS ('25), ADMA ('23 - '26), LSGDA ('25), APWeb-WAIM ('24), ADC ('24 - '26)
 
-Journal Reviewer: TODS
+Journal Reviewer: TODS, TKDE, TMC
 
 Panelist
 =====
@@ -69,8 +69,8 @@ Tutorials
 =====
 VLDB ('26): Graph Foundation Models: State of the Art and Future Directions. **A Zhou**, H Li, L Chen
 
-ADC ('24): Graph-Based Indexes for Approximate Nearest Neighbour Search
+ADC ('24): Graph-Based Indexes for Approximate Nearest Neighbour Search. **A Zhou**
 
 PhD Workshop Invited Talks
 =====
-ADC ('22)
+ADC ('22): Beyond Normal Graphs: Finding New Research Topics on Complex Graph Types. **A Zhou**
