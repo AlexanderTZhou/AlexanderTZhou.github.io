@@ -12,7 +12,7 @@ redirect_from:
 Employment
 ======
 * Hong Kong Polytechnic University (2024 - Present)
-    * Research Assistant Professor in the Department of Computing
+    * Assistant Professor (Research) in the Department of Computing
     
 Education
 ======
@@ -34,7 +34,7 @@ Additional Academic Experience
 Teaching Experience
 =====
 Hong Kong Polytechnic University
-* COMP3235: Software Project Management (S2 25/26)
+* COMP3235: Software Project Management (S2 25/26, S2 26/27)
 * COMP2411: Database Systems (S1 24/25)
 
 Teaching Assistant Experience
@@ -65,8 +65,10 @@ Panelist
 =====
 ADMA ('25): Fundamental Research vs Application Research — New Challenges and Opportunities
 
-Tutorial
+Tutorials
 =====
+VLDB ('26): Graph Foundation Models: State of the Art and Future Directions. **A Zhou**, H Li, L Chen
+
 ADC ('24): Graph-Based Indexes for Approximate Nearest Neighbour Search
 
 PhD Workshop Invited Talks

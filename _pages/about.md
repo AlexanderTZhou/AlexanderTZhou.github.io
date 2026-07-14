@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am currently a Research Assistant Professor in the Department of Computing at the Hong Kong Polytechnic University. I completed my PhD in Computer Science at the Hong Kong University of Science and Technology under the supervision of Prof. Lei Chen. Before that, I recieved my Bachelor of Engineering (Honours) and Bachelor of Science from the University of Queensland specialising in Software Engineering and Statistics respectively.
+I am currently an Asistant Professor (Research) in the Department of Computing at the Hong Kong Polytechnic University. I completed my PhD in Computer Science at the Hong Kong University of Science and Technology under the supervision of Prof. Lei Chen. Before that, I recieved my Bachelor of Engineering (Honours) and Bachelor of Science from the University of Queensland specialising in Software Engineering and Statistics respectively.
 
 I am currently looking for:
 * Research Assistants with a strong (and demonstrable) coding ability (C++).
